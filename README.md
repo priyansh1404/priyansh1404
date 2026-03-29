@@ -5,6 +5,8 @@
 | Field  | Details            |
 |--------|--------------------|
 |  Name   | Priyansh Vivek     |
+| College | VIT Bhopal  |
+| Course  | B-Tech    |
 |  Branch | CSE ( AI & ML )  |
 |  Year   | 1st Year           |
 
