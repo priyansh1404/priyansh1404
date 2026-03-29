@@ -2,7 +2,7 @@
 
 ## 📋 About Me
 
-| Field  | Details            |
+|  Details            |
 |--------|--------------------|
 |  Name   | Priyansh Vivek     |
 | College | VIT Bhopal  |
