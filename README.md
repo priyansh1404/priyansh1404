@@ -5,7 +5,7 @@
 | Field  | Details            |
 |--------|--------------------|
 |  Name   | Priyansh Vivek     |
-|  Branch | Computer Science   |
+|  Branch | CSE ( AI & ML )  |
 |  Year   | 1st Year           |
 
 ## 🚀 What I Hope to Learn
