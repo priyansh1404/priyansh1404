@@ -1,4 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Priyansh Vivek
+
+## 📋 About Me
+
+| Field  | Details            |
+|--------|--------------------|
+|  Name   | Priyansh Vivek     |
+|  Branch | Computer Science   |
+|  Year   | 1st Year           |
+
+## 🚀 What I Hope to Learn
+
+> I hope to master the foundations of computer science and evolve into a skilled developer who can build innovative, real-world solutions that make a meaningful impact.
+
+---
+
 
 <!--
 **priyansh1404/priyansh1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
